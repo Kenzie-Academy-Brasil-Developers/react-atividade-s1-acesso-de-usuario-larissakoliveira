@@ -1,0 +1,17 @@
+.buttonStyleLogin{
+    background-color: rgb(109, 168, 81); 
+}
+
+.buttonStyleLogout{
+    background-color: rgb(235, 43, 81); 
+}
+
+button{
+    color: rgb(245, 243, 240);
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+    width: 110px;
+    border-radius: 10px;
+}
